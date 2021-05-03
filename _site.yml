@@ -2,7 +2,7 @@ name: "mmjohn.github.io"
 title: "Mackenzie M. Johnson"
 description: |
   Mackenzie M. Johnson
-theme: "theme.css"
+theme: theme.css
 base_url: https://mmjohn.github.io
 output_dir: "docs"
 navbar:
