@@ -1,0 +1,13 @@
+---
+title: "Projects"
+author: "Mackenzie Johnson"
+#date: "5/3/2021"
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+This is where I will list different on-going and complete projects
+
