@@ -17,5 +17,13 @@ reading what we have to say!</description>
       <guid>https://mmjohn.github.io/posts/welcome</guid>
       <pubDate>Mon, 03 May 2021 00:00:00 +0000</pubDate>
     </item>
+    <item>
+      <title>Understanding entropy at individual protein sites</title>
+      <dc:creator>Mackenzie M. Johnson</dc:creator>
+      <link>https://mmjohn.github.io/posts/2021-04-01-aa-distributions</link>
+      <description>Include a descriptions of boltzmann distribution paper</description>
+      <guid>https://mmjohn.github.io/posts/2021-04-01-aa-distributions</guid>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+    </item>
   </channel>
 </rss>

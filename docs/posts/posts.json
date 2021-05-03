@@ -15,5 +15,22 @@
     "preview": {},
     "last_modified": "2021-05-03T01:35:57-05:00",
     "input_file": {}
+  },
+  {
+    "path": "posts/2021-04-01-aa-distributions/",
+    "title": "Understanding entropy at individual protein sites",
+    "description": "Include a descriptions of boltzmann distribution paper",
+    "author": [
+      {
+        "name": "Mackenzie M. Johnson",
+        "url": "https://integrativebio.utexas.edu/component/cobalt/item/7-integrative-biology/3145-johnson-mackenzie?Itemid=1224"
+      }
+    ],
+    "date": "2021-04-01",
+    "categories": [],
+    "contents": "\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-05-03T10:27:17-05:00",
+    "input_file": {}
   }
 ]

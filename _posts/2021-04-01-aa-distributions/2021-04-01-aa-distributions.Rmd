@@ -1,0 +1,25 @@
+---
+title: "Understanding entropy at individual protein sites"
+description: |
+  Include a descriptions of boltzmann distribution paper
+author:
+  - name: Mackenzie M. Johnson 
+    url: https://integrativebio.utexas.edu/component/cobalt/item/7-integrative-biology/3145-johnson-mackenzie?Itemid=1224
+    affiliation: Spacely Sprockets
+    affiliation_url: https://example.com/spacelysprokets
+date: 04-01-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating blogs with Distill at:
+# https://rstudio.github.io/distill/blog.html
+
+```
+
+
+
