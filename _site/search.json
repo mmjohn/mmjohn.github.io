@@ -6,14 +6,14 @@
       "description": "Some additional details about the blog",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-05-03T00:23:02-05:00"
+      "last_modified": "2021-05-03T00:49:37-05:00"
     },
     {
       "path": "index.html",
       "title": "Mackenzie M. Johnson",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-05-03T00:23:02-05:00"
+      "last_modified": "2021-05-03T00:49:37-05:00"
     }
   ],
   "collections": ["posts/posts.json"]
