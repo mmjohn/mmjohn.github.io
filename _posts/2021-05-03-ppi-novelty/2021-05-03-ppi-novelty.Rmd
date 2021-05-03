@@ -1,14 +1,13 @@
 ---
-title: "Welcome to Mackenzie M. Johnson"
+title: "Novelty in protein-protein interaction networks"
 description: |
-  Welcome to our new blog, Mackenzie M. Johnson. We hope you enjoy 
-  reading what we have to say!
+  Include a description of ribosomal ppi paper
 author:
-  - name: Nora Jones 
-    url: https://example.com/norajones
+  - name: Mackenzie M. Johnson 
+    url: https://integrativebio.utexas.edu/component/cobalt/item/7-integrative-biology/3145-johnson-mackenzie?Itemid=1224
     affiliation: Spacely Sprockets
     affiliation_url: https://example.com/spacelysprokets
-date: 03-03-2021
+date: 05-03-2021
 output:
   distill::distill_article:
     self_contained: false

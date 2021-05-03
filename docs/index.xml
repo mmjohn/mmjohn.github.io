@@ -9,12 +9,11 @@
     <generator>Distill</generator>
     <lastBuildDate>Mon, 03 May 2021 00:00:00 +0000</lastBuildDate>
     <item>
-      <title>Welcome to Mackenzie M. Johnson</title>
-      <dc:creator>Nora Jones</dc:creator>
-      <link>https://mmjohn.github.io/posts/welcome</link>
-      <description>Welcome to our new blog, Mackenzie M. Johnson. We hope you enjoy 
-reading what we have to say!</description>
-      <guid>https://mmjohn.github.io/posts/welcome</guid>
+      <title>Novelty in protein-protein interaction networks</title>
+      <dc:creator>Mackenzie M. Johnson</dc:creator>
+      <link>https://mmjohn.github.io/posts/2021-05-03-ppi-novelty</link>
+      <description>Include a description of ribosomal ppi paper</description>
+      <guid>https://mmjohn.github.io/posts/2021-05-03-ppi-novelty</guid>
       <pubDate>Mon, 03 May 2021 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -24,6 +23,15 @@ reading what we have to say!</description>
       <description>Include a descriptions of boltzmann distribution paper</description>
       <guid>https://mmjohn.github.io/posts/2021-04-01-aa-distributions</guid>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Welcome to Mackenzie M. Johnson</title>
+      <dc:creator>Nora Jones</dc:creator>
+      <link>https://mmjohn.github.io/posts/welcome</link>
+      <description>Welcome to our new blog, Mackenzie M. Johnson. We hope you enjoy 
+reading what we have to say!</description>
+      <guid>https://mmjohn.github.io/posts/welcome</guid>
+      <pubDate>Wed, 03 Mar 2021 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
