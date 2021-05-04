@@ -7,23 +7,7 @@
     <description>Mackenzie M. Johnson
 </description>
     <generator>Distill</generator>
-    <lastBuildDate>Mon, 03 May 2021 00:00:00 +0000</lastBuildDate>
-    <item>
-      <title>Novelty in protein-protein interaction networks</title>
-      <dc:creator>Mackenzie M. Johnson</dc:creator>
-      <link>https://mmjohn.github.io/posts/2021-05-03-ppi-novelty</link>
-      <description>Include a description of ribosomal ppi paper</description>
-      <guid>https://mmjohn.github.io/posts/2021-05-03-ppi-novelty</guid>
-      <pubDate>Mon, 03 May 2021 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Understanding entropy at individual protein sites</title>
-      <dc:creator>Mackenzie M. Johnson</dc:creator>
-      <link>https://mmjohn.github.io/posts/2021-04-01-aa-distributions</link>
-      <description>Include a descriptions of boltzmann distribution paper</description>
-      <guid>https://mmjohn.github.io/posts/2021-04-01-aa-distributions</guid>
-      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 03 Mar 2021 00:00:00 +0000</lastBuildDate>
     <item>
       <title>Welcome to Mackenzie M. Johnson</title>
       <dc:creator>Nora Jones</dc:creator>
