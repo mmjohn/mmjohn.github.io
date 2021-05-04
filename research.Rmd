@@ -1,7 +1,5 @@
 ---
 title: "Research"
-author: "Mackenzie Johnson"
-# date: "5/3/2021"
 output: distill::distill_article
 ---
 
