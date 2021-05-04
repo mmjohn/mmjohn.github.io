@@ -1,28 +1,29 @@
 name: "mmjohn.github.io"
 title: "Mackenzie M. Johnson"
-#theme: theme.css
+theme: theme.css
 description: |
   Mackenzie M. Johnson
 base_url: https://mmjohn.github.io
 output_dir: "docs"
 navbar:
+  search: false
   right:
-    #- text: "Home"
-    #  href: index.html
+    - text: "Home"
+      href: index.html
     - text: "About"
       href: about.html
     - text: "Research"
       href: research.html
-    #- icon: ai ai-google-scholar fa-lg
-    #  href: https://scholar.google.com/citations?user=vBGR7-UAAAAJ&hl=en
+    - icon: ai ai-google-scholar fa-lg
+      href: https://scholar.google.com/citations?user=vBGR7-UAAAAJ&hl=en
     - icon: fa fa-github
       href: https://github.com/mmjohn 
-    #- icon: ai ai-orcid fa-lg
-    #  href: https://orcid.org/0000-0002-3915-2023
+    - icon: ai ai-orcid fa-lg
+      href: https://orcid.org/0000-0002-3915-2023
     - icon: fa fa-twitter
       href: https://twitter.com/mmjohnEEB
     - icon: fa fa-linkedin
       href: https://www.linkedin.com/in/mackenzie-m-johnson-a68931204/
-output: distill::distill_article
-# css:
-# - https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css
+output: distill::distill_article 
+css:
+- https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css

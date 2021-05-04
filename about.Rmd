@@ -2,6 +2,7 @@
 title: "About"
 description: |
   Some additional details about the blog
+output: distill::distill_article
 ---
 
 ```{r setup, include=FALSE}
