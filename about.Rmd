@@ -1,7 +1,5 @@
 ---
-title: "About"
-description: |
-  Some additional details about the blog
+title: "About me"
 output: distill::distill_article
 ---
 
@@ -9,4 +7,12 @@ output: distill::distill_article
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-I am a ....
+```{r fig.align='left'}
+knitr::include_graphics("images/pic_mjohnson.jpg")
+```
+
+I am a PhD Candidate in the [Department of Integrative Biology](https://integrativebio.utexas.edu/) at the University of Texas at Austin, advised by [Dr. Claus Wilke](https://wilkelab.org/). At UT, I'm enrolled in the [EEB Graduate Program](https://integrativebio.utexas.edu/eeb-graduate-program) and am a Graduate Fellow on the [Biomedical Big Data Training Grant](https://stat.utexas.edu/biomedical-big-data-training-grant) in the [Department of Statistics and Data Science](https://stat.utexas.edu/). Previously, I received a BS in Biology from the [University of Kansas](https://biology.ku.edu/), where I conducted research in theoretical population genetics with [Dr. Maria Orive](https://orive.ku.edu/home).
+
+As a computational evolutionary biologist, I am broadly interested in population genetics, statistical inference, and machine learning. My dissertation work primarily seeks to improve methods for evolutionary inference on biological sequence data, using both deep neural networks and statistical modeling. For more information about past and current projects, please see [Research](https://mmjohn.github.io/research.html).
+
+ 

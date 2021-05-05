@@ -2,25 +2,24 @@
   "articles": [
     {
       "path": "about.html",
-      "title": "About",
-      "description": "Some additional details about the blog\n",
+      "title": "About me",
       "author": [],
-      "contents": "\nI am a ….\n\n\n\n",
-      "last_modified": "2021-05-04T19:42:36-05:00"
+      "contents": "\n\n\n\nI am a PhD Candidate in the Department of Integrative Biology at the University of Texas at Austin, advised by Dr. Claus Wilke. At UT, I’m enrolled in the EEB Graduate Program and am a Graduate Fellow on the Biomedical Big Data Training Grant in the Department of Statistics and Data Science. Previously, I received a BS in Biology from the University of Kansas, where I conducted research in theoretical population genetics with Dr. Maria Orive.\nAs a computational evolutionary biologist, I am broadly interested in population genetics, statistical inference, and machine learning. My dissertation work primarily seeks to improve methods for evolutionary inference on biological sequence data, using both deep neural networks and statistical modeling. For more information about past and current projects, please see Research.\n\n\n\n",
+      "last_modified": "2021-05-04T22:22:39-05:00"
     },
     {
       "path": "index.html",
       "title": "News",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-05-04T19:42:36-05:00"
+      "last_modified": "2021-05-04T22:22:39-05:00"
     },
     {
       "path": "research.html",
       "title": "Research",
       "author": [],
       "contents": "\nThis is where I will list different on-going and complete projects\n\n\n\n",
-      "last_modified": "2021-05-04T19:42:37-05:00"
+      "last_modified": "2021-05-04T22:22:40-05:00"
     }
   ],
   "collections": ["posts/posts.json"]
