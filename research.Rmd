@@ -7,5 +7,12 @@ output: distill::distill_article
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-This is where I will list different on-going and complete projects
+Descriptions of on-going and completed research projects are listed below. See [Google Scholar](https://scholar.google.com/citations?user=vBGR7-UAAAAJ&hl=en) for a complete list of publications and pre-prints.
 
+### Deep learning for population genomics
+
+### Novelty in protein-protein interaction networks
+
+### Evolutionary fate of duplicated genes
+
+### Clonal interference simulations

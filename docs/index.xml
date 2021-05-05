@@ -7,15 +7,30 @@
     <description>Mackenzie M. Johnson
 </description>
     <generator>Distill</generator>
-    <lastBuildDate>Wed, 03 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 May 2021 00:00:00 +0000</lastBuildDate>
     <item>
-      <title>Welcome to Mackenzie M. Johnson</title>
-      <dc:creator>Nora Jones</dc:creator>
-      <link>https://mmjohn.github.io/posts/welcome</link>
-      <description>Welcome to our new blog, Mackenzie M. Johnson. We hope you enjoy 
-reading what we have to say!</description>
-      <guid>https://mmjohn.github.io/posts/welcome</guid>
-      <pubDate>Wed, 03 Mar 2021 00:00:00 +0000</pubDate>
+      <title>Randomness in amino acid distributions</title>
+      <dc:creator>Mackenzie M. Johnson</dc:creator>
+      <link>https://mmjohn.github.io/posts/2021-05-05-aa-distributions</link>
+      <description>Post to accompany Johnson and Wilke (2020).</description>
+      <guid>https://mmjohn.github.io/posts/2021-05-05-aa-distributions</guid>
+      <pubDate>Wed, 05 May 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Evolutionary fate of duplicated genes</title>
+      <dc:creator>Mackenzie M. Johnson</dc:creator>
+      <link>https://mmjohn.github.io/posts/2021-05-05-gene-duplication</link>
+      <description>Post to accompany Teuful et al (2019)</description>
+      <guid>https://mmjohn.github.io/posts/2021-05-05-gene-duplication</guid>
+      <pubDate>Wed, 05 May 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Novelty in protein-protein interaction networks</title>
+      <dc:creator>Mackenzie M. Johnson</dc:creator>
+      <link>https://mmjohn.github.io/posts/2021-05-05-ppi-novelty</link>
+      <description>Post to accompany Klein et al (In Review).</description>
+      <guid>https://mmjohn.github.io/posts/2021-05-05-ppi-novelty</guid>
+      <pubDate>Wed, 05 May 2021 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

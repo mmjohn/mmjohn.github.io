@@ -1,0 +1,19 @@
+---
+title: "Evolutionary fate of duplicated genes"
+description: |
+  Post to accompany Teuful et al (2019)
+author:
+  - name: Mackenzie M. Johnson
+date: 05-05-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+
