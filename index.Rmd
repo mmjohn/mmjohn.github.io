@@ -3,5 +3,3 @@ title: "News"
 site: distill::distill_website
 listing: posts
 ---
-
-# INSERT INTO IMAGE HERE

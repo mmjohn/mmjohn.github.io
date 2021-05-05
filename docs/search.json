@@ -6,21 +6,21 @@
       "description": "Some additional details about the blog\n",
       "author": [],
       "contents": "\nI am a ….\n\n\n\n",
-      "last_modified": "2021-05-04T19:40:29-05:00"
+      "last_modified": "2021-05-04T19:42:36-05:00"
     },
     {
       "path": "index.html",
       "title": "News",
       "author": [],
-      "contents": "\nINSERT INTO IMAGE HERE\n\n\n\n",
-      "last_modified": "2021-05-04T19:40:30-05:00"
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-05-04T19:42:36-05:00"
     },
     {
       "path": "research.html",
       "title": "Research",
       "author": [],
       "contents": "\nThis is where I will list different on-going and complete projects\n\n\n\n",
-      "last_modified": "2021-05-04T19:40:30-05:00"
+      "last_modified": "2021-05-04T19:42:37-05:00"
     }
   ],
   "collections": ["posts/posts.json"]
