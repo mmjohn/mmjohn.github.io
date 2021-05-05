@@ -11,6 +11,8 @@ Descriptions of on-going and completed research projects are listed below. See [
 
 ### Deep learning for population genomics
 
+### The shape of site-specific amino acid distributions
+
 ### Novelty in protein-protein interaction networks
 
 ### Evolutionary fate of duplicated genes

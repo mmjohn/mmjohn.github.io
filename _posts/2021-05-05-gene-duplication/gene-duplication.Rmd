@@ -1,7 +1,7 @@
 ---
 title: "Evolutionary fate of duplicated genes"
 description: |
-  Post to accompany Teuful et al (2019)
+  Post to accompany Teuful et al (2019).
 author:
   - name: Mackenzie M. Johnson
 date: 05-05-2021
