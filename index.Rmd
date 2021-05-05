@@ -1,7 +1,7 @@
 ---
-title: "Mackenzie M. Johnson"
+title: "News"
 site: distill::distill_website
 listing: posts
 ---
 
-# Computational evolutionary biology
+# INSERT INTO IMAGE HERE
