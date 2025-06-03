@@ -4,8 +4,8 @@ image: "images/mmjohnson.png"
 links:
   - label: '<i class="fab fa-github"></i> GitHub'
     url: "https://github.com/mmjohn"
-  - label: '<i class="fab fa-twitter"></i> Twitter'
-    url: "https://twitter.com/mmjohnEEB"
+  # - label: '<i class="fab fa-twitter"></i> Twitter'
+  #   url: "https://twitter.com/mmjohnEEB"
   - label: '<i class="fab fa-linkedin"></i> LinkedIn'
     url: "https://www.linkedin.com/in/mackenzie-m-johnson-a68931204/"
   - label: '<i class="ai ai-orcid"></i> ORCID'
@@ -18,14 +18,20 @@ output:
 
 ## Bio
 
-I am a PhD Candidate in the [Department of Integrative Biology](https://integrativebio.utexas.edu/) at UT Austin, advised by [Dr. Claus O. Wilke](https://wilkelab.org/). As a computational evolutionary biologist, I'm broadly interested in population genomics, statistical inference, and machine learning. My dissertation work primarily seeks to improve methods for evolutionary inference on biological sequence data, using both deep neural networks and statistical modeling. My graduate education has included 3 years as a trainee on the [Biomedical Big Data Training Grant](https://stat.utexas.edu/biomedical-big-data-training-grant) in the [Department of Statistics and Data Science](https://stat.utexas.edu/). During my undergraduate at KU, I studied theoretical population genetics in the lab of [Dr. Maria E. Orive](https://orive.ku.edu/home).
+I am computational evolutionary biologist in the [Herbold Computational Biology Program](https://www.fredhutch.org/en/research/divisions/public-health-sciences-division/research/computational-biology.html) at Fred Hutch Cancer Center. My postdoctoral research has focused on methods development for computational immunology in [Dr. Erick Matsen](https://matsen.fhcrc.org/)'s group. Primarily, I have developed tools to better understand the adaptive immune system, creating software to model the natural evolution of antibodies.
+
+I completed my PhD in the [Department of Integrative Biology](https://integrativebio.utexas.edu/) at UT Austin, advised by [Dr. Claus O. Wilke](https://wilkelab.org/). My dissertation work primarily sought to improve methods for evolutionary inference on biological sequence data, using both deep neural networks and statistical modeling. My graduate education included 3 years as a trainee on the T32 Biomedical Big Data Training Grant in the [Department of Statistics and Data Science](https://stat.utexas.edu/). During my undergraduate at KU, I studied theoretical population genetics in the lab of [Dr. Maria E. Orive](https://orive.ku.edu/home).
 
 
 ## Education
 
+**Fred Hutch Cancer Center** | Seattle, WA
+
+Postdoctoral Research Associate in Computational Biology | January 2023 - Present
+
 **University of Texas at Austin** | Austin, TX
 
-Ph.D. in Ecology, Evolution and Behavior | August 2017 - Present
+Ph.D. in Ecology, Evolution and Behavior | August 2017 - December 2022
 
 **University of Kansas** | Lawrence, KS
 
